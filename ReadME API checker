@@ -1,0 +1,11 @@
+ReadME 
+password checker API using python
+
+
+the program code is written in simple manner and tried to be shurunk only to relevant code i.e the user or programmer shoulnt get confused. it will check the number of times the password was attempted to breach and it will showcase the numbers it will also showcase the absolute password which was not found.
+
+in order to use this there needs to be two python modules installed externally if they arent in the system user might have some issues operating the api (requests, hashlibs).
+
+the best way to run the code is on terminal, shell or any other cmd prompt user is familiar with.
+
+hope you enjoy!!
